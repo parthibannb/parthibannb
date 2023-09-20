@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 91-80721-29667
--  ✨ Insta....Parthik_D
+-  ✨ Insta....Parthik_qs
 -  
 <!---
 parthibannb/parthibannb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
